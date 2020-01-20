@@ -16,7 +16,7 @@ $(function(){
 						// 当前版本
 						var wgtVersion = inf.version;
 						$.ajax({
-							url:'https://1729176996.github.io/MyH5AppVersion/version.json',
+							url:'https://1729176996.github.io/RebornVersion/version.json',
 							type:'get',
 							dataType: 'json',
 							success:function(data){
@@ -57,7 +57,7 @@ $(function(){
 				}
 			}else{
 				$.ajax({
-					url:'https://1729176996.github.io/MyH5AppVersion/version.json',
+					url:'https://1729176996.github.io/RebornVersion/version.json',
 					type:'get',
 					dataType: 'json',
 					success:function(data){
