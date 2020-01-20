@@ -1,0 +1,21 @@
+[v-cloak]{
+	display: none;
+}
+.c-blue{
+	color: #007aff;
+}
+.none{
+	display: none;
+}
+
+/**
+ * 版本更新提示
+ */
+.updatedContent{
+	text-align: left;
+	margin-left: 1em;
+}
+.updatedContent2{
+	text-align: left;
+	margin-left: 2em;
+}
